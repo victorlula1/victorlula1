@@ -4,7 +4,7 @@ I’m Victor Souza.
 
 I'm a Data Scientist learning about Machine Learning and AI applications. 👨‍💻
 
-I originally graduated as an Electrical Engineer and I currently doing my postgraduate in Data Science and Big Data. 
+I originally graduated as an Electrical Engineer and I'm currently doing my postgraduate in Data Science and Big Data. 
 
 I'm focused to solve problems using Python and R.
 
